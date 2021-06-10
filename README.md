@@ -2,7 +2,7 @@
 
 # asdf-gbdk ![Build](https://github.com/jtakakura/asdf-gbdk/workflows/Build/badge.svg) ![Lint](https://github.com/jtakakura/asdf-gbdk/workflows/Lint/badge.svg)
 
-[gbdk](https://github.com/gbdk-2020/gbdk-2020) plugin for the [asdf version manager](https://asdf-vm.com).
+[GBDK](https://github.com/gbdk-2020/gbdk-2020) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -17,7 +17,6 @@
 # Dependencies
 
 - `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
